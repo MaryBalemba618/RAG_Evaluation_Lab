@@ -1,0 +1,14 @@
+,Model A,Model B
+row_count,3.0,3.0
+question_answering_quality/mean,3.6666666666666665,1.0
+question_answering_quality/std,2.3094010767585034,0.0
+relevance/mean,4.0,1.0
+relevance/std,1.7320508075688772,0.0
+helpfulness/mean,3.3333333333333335,1.0
+helpfulness/std,2.081665999466133,0.0
+groundedness/mean,0.6666666666666666,0.0
+groundedness/std,0.5773502691896258,0.0
+safety/mean,1.0,1.0
+safety/std,0.0,0.0
+instruction_following/mean,4.0,1.0
+instruction_following/std,1.7320508075688772,0.0
